@@ -130,5 +130,7 @@ ENV/
 # mypy
 .mypy_cache/
 
+.idea
+
 # Custom Ignored File
 Tips.md
